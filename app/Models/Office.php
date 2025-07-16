@@ -14,4 +14,4 @@ class Office extends Model
         'longitude',
         'radius'
     ];
-}
+}  
